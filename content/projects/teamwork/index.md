@@ -8,7 +8,7 @@ weight: 1
 summary: "An all-in-one project management tool"
 links:
     external_link:
-        text: "Download"
+        text: "Buy me a coffee"
         icon: "fas fa-external-link-alt"
         href: "https://buzati.gumroad.com/l/teamwork"
         weight: 1
@@ -41,4 +41,4 @@ With **Teamwork**,
 **Notes:**
 
 * ➡️ Check "Teamwork Guide" in the template for further instruction;
-* 🚀 [Why I launch Teamwork]();
+* 🚀 [Why I launch Teamwork](/posts/why_launch_teamwork);

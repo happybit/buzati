@@ -11,7 +11,7 @@ copyright = "buzati ©"
 #  description = ""
 #  keywords = "notion, teamwork, projectmanagement"
   initials = "B"
-  googleAnalytics = ""
+  googleAnalytics = "G-EM91CJQ626"
 
   [[params.social]]
     name = "Twitter"
