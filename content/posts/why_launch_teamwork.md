@@ -4,7 +4,7 @@ date: 2022-07-15
 lastmod: 2022-07-15
 draft: false
 garden_tags: ["notion"]
-summary: "After worked in multinationals for decades, I was so sick and tired of office politics..."
+summary: "The reason why I created and launched Teamwork..."
 # status: "evergreen"
 ---
 
