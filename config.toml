@@ -1,4 +1,4 @@
-baseURL = "https://www.buzati.com"
+baseURL = "https://buzati.com"
 languageCode = "en-us"
 title = "buzati"
 theme = "digital-garden"
