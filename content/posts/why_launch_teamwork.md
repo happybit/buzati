@@ -22,8 +22,4 @@ Finally I found a way to use Notion as an affordable all-in-one collaboration to
 
 <img src="/img/whylaunchteamwork.jpg" width="100%">
 
-The funny thing is, after building and fine-tuning this system for a few weeks, I showed it to my wife proudly and waited for her encouragement. She joked,
-
-> Uh, can you make money on it?
-
-Why not? I thought. So I launched Teamwork.
+That's why I launched Teamwork.

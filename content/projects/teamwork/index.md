@@ -28,6 +28,9 @@ links:
 > * Need all on-hands tasks at a glance❓
 > * Need an affordable Notion team plan❓
 
+> [!IMPORTANT]
+> Please duplicate [Teamwork template](https://buzatihq.notion.site/buzatihq/Teamwork-Template-965abe8fb11c4d258d6f01ba516ed747) on Notion.
+
 With **Teamwork**,
 
 * 📈 Members just need to focus on the tasks assigned and the projects involved;
